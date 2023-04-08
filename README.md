@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaDeOliveira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCostaDeOliveira)](https://github.com/anuraghazra/github-readme-stats)
