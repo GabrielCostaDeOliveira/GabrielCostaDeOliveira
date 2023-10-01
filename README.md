@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **GabrielCostaDeOliveira/GabrielCostaDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCostaDeOliveira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+# Hi there 👋
+
+I'm Gabriel Costa de Oliveira, a software engineer currently pursuing my degree at the University of Brasília (UnB).
+
